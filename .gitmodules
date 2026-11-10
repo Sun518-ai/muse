@@ -1,0 +1,18 @@
+[submodule "paipai"]
+	path = paipai
+	url = https://github.com/Sun518-ai/paipai.git
+[submodule "paipai-cli"]
+	path = paipai-cli
+	url = https://github.com/Sun518-ai/paipai-cli.git
+[submodule "starup"]
+	path = starup
+	url = https://github.com/Sun518-ai/starup.git
+[submodule "neural-atelier"]
+	path = neural-atelier
+	url = https://github.com/Sun518-ai/neural-atelier.git
+[submodule "dsh-superagent-prototype"]
+	path = dsh-superagent-prototype
+	url = https://github.com/Sun518-ai/dsh-superagent-prototype.git
+[submodule "todomvc"]
+	path = todomvc
+	url = https://github.com/Sun518-ai/todomvc.git
